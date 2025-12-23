@@ -42,7 +42,7 @@ The Kraken X44 is a smaller version of the X60.
 
 ## CTR Minion
 
-The CTR Minion is the smallest and lightest motor we use. It does not have an integrated encoder, and the outer housing of the motor spins with the shaft, making it vulnerable to impacts from game pieces or other parts of the robot. 
+The CTR Minion is the smallest and lightest motor we use. It does not have an integrated controller, and the outer housing of the motor spins with the shaft, making it vulnerable to impacts from game pieces or other parts of the robot. 
 
 **Primary Applications:**
 
